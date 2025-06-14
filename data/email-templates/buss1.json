@@ -1,0 +1,14 @@
+{
+  "welcome": {
+    "subject": "Welcome to Business Unit 1",
+    "content": "Dear Team,\n\nWelcome to Business Unit 1! We're excited to have you on board.\n\nBusiness Unit 1 focuses on innovative technology solutions and cutting-edge development. As part of our team, you'll be working on exciting projects that shape the future of our industry.\n\nKey highlights:\n- Collaborative work environment\n- Latest technology stack\n- Professional development opportunities\n- Flexible working arrangements\n\nWe look forward to your contributions and success with us.\n\nBest regards,\nBusiness Unit 1 Management"
+  },
+  "announcement": {
+    "subject": "Important Announcement - Business Unit 1",
+    "content": "Dear Business Unit 1 Team,\n\nWe have an important announcement regarding our upcoming initiatives.\n\nEffective immediately, we will be implementing new processes to enhance our productivity and collaboration:\n\n1. Weekly team sync meetings every Monday at 10 AM\n2. New project management tools rollout\n3. Enhanced security protocols\n4. Updated performance review process\n\nPlease attend the mandatory briefing session scheduled for this Friday at 2 PM in Conference Room A.\n\nFor any questions, please reach out to your direct supervisor.\n\nThank you for your attention.\n\nBest regards,\nBusiness Unit 1 Leadership"
+  },
+  "meeting": {
+    "subject": "Team Meeting Invitation - Business Unit 1",
+    "content": "Dear Team Members,\n\nYou are invited to attend our monthly Business Unit 1 team meeting.\n\nMeeting Details:\n- Date: [DATE]\n- Time: [TIME]\n- Location: Conference Room B / Virtual Link: [LINK]\n\nAgenda:\n1. Monthly performance review\n2. Upcoming project discussions\n3. Resource allocation updates\n4. Q&A session\n5. Team building activities planning\n\nPlease confirm your attendance by replying to this email.\n\nLooking forward to seeing everyone there.\n\nBest regards,\nBusiness Unit 1 Team Lead"
+  }
+}
